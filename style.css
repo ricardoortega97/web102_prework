@@ -73,3 +73,10 @@ button {
     margin: 1%;
     border-radius: 7px;
 }
+
+.status-container {
+    display: flexbox;
+    align-items: flex-start;
+    cursor: pointer;
+    box-shadow: 0 0 30px lightblue;
+}
